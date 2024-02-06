@@ -15,7 +15,7 @@ const App = () => {
   return (
     <div>
       <h1 className="text-green-400 font-bold py-4 pl-6 text-2xl">
-        task Tracker
+        task Tracker-App
       </h1>
       <p className="text-xl pl-8 pb-4">Hi there!</p>
       <p className="items-center text-center  flex text-xl pl-8">
